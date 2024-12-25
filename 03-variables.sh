@@ -1,6 +1,6 @@
 #!/bin/bash
-Person1=Ramesh #no space between '=/equal' and value
-Person2=Suresh
+Person1=gopi #no space between '=/equal' and value
+Person2=vasu
 
 echo "$Person1:: Hello $Person2, How are you?"
 echo "$Person2:: Hi $Person1, I am fine. How are you?"
